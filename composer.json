@@ -1,0 +1,19 @@
+{
+    "name": "lengyue/captcha",
+    "description": "base64 image verification captcha library",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lengyue\\Captcha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lengyue"
+        }
+    ]
+}
